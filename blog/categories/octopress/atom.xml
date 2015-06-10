@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | HuongNguyen's Blog]]></title>
+  <title><![CDATA[Category: octopress | HuongNguyen's Blog]]></title>
   <link href="http://zhuongnx.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://zhuongnx.github.io/"/>
-  <updated>2015-06-10T13:49:04+07:00</updated>
+  <updated>2015-06-10T15:20:11+07:00</updated>
   <id>http://zhuongnx.github.io/</id>
   <author>
     <name><![CDATA[Hướng Nguyễn]]></name>

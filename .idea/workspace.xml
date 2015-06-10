@@ -2,9 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c445b99f-dbbe-404d-9c77-2cd8a9851815" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/background.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/background.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/bird_32_gray.png" afterPath="$PROJECT_DIR$/source/images/bird_32_gray.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/bird_32_gray_fail.png" afterPath="$PROJECT_DIR$/source/images/bird_32_gray_fail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/bufferIcon.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/bufferIcon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/dock/button.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/dock/button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/code_bg.png" afterPath="$PROJECT_DIR$/source/images/code_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/divider.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/divider.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/dotted-border.png" afterPath="$PROJECT_DIR$/source/images/dotted-border.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/email.png" afterPath="$PROJECT_DIR$/source/images/email.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedIcon.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedIcon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedScreen.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedScreen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/favicon.png" afterPath="$PROJECT_DIR$/source/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButtonOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButtonOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/item.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/item.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/itemOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/itemOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/line-tile.png" afterPath="$PROJECT_DIR$/source/images/line-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButton.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButtonOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButtonOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/muteIcon.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/muteIcon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/noise.png" afterPath="$PROJECT_DIR$/source/images/noise.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButtonOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButtonOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButton.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButtonOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButtonOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButton.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/playIcon.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/playIcon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/rss.png" afterPath="$PROJECT_DIR$/source/images/rss.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/search.png" afterPath="$PROJECT_DIR$/source/images/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareIcon.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareIcon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareScreen.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareScreen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapBottom.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapBottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapTop.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapTop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderRail.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderRail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderThumb.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderThumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderBuffer.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderBuffer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapLeft.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapLeft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapRight.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapRight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderProgress.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderProgress.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderRail.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderRail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButton.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButtonOver.png" afterPath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButtonOver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_archive.scss" afterPath="$PROJECT_DIR$/sass/partials/_archive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_blog.scss" afterPath="$PROJECT_DIR$/sass/partials/_blog.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_footer.scss" afterPath="$PROJECT_DIR$/sass/partials/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_header.scss" afterPath="$PROJECT_DIR$/sass/partials/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_layout.scss" afterPath="$PROJECT_DIR$/sass/base/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="$PROJECT_DIR$/sass/partials/_navigation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_sidebar.scss" afterPath="$PROJECT_DIR$/sass/partials/_sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="$PROJECT_DIR$/sass/partials/_syntax.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/sass/base/_theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/archive_post.html" afterPath="$PROJECT_DIR$/source/_includes/archive_post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="$PROJECT_DIR$/source/_includes/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/atom.xml" afterPath="$PROJECT_DIR$/source/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/post/date.html" afterPath="$PROJECT_DIR$/source/_includes/post/date.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="$PROJECT_DIR$/source/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/disqus.html" afterPath="$PROJECT_DIR$/source/_includes/disqus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/facebook_like.html" afterPath="$PROJECT_DIR$/source/_includes/facebook_like.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/footer.html" afterPath="$PROJECT_DIR$/source/_includes/custom/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/github.html" afterPath="$PROJECT_DIR$/source/_includes/asides/github.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="$PROJECT_DIR$/source/javascripts/github.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html" afterPath="$PROJECT_DIR$/source/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" afterPath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/navigation.html" afterPath="$PROJECT_DIR$/source/_includes/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="$PROJECT_DIR$/source/javascripts/octopress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/post.html" afterPath="$PROJECT_DIR$/source/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/post/sharing.html" afterPath="$PROJECT_DIR$/source/_includes/post/sharing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/twitter_sharing.html" afterPath="$PROJECT_DIR$/source/_includes/twitter_sharing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
@@ -26,11 +98,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
+      <file leaf-file-name="_colors.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/custom/_colors.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="267" column="54" selection-start-line="267" selection-start-column="54" selection-end-line="267" selection-end-column="54" />
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -39,18 +111,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3550388">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="3.0310078">
+              <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,13 +128,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="_utilities.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/base/_utilities.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/custom/_styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_theme.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/base/_theme.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+              <folding>
+                <marker date="1433924058665" expanded="true" signature="2622:2685" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-06-10-blogging-basics.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2015-06-10-blogging-basics.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="12.096774">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-06-10-plugins.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2015-06-10-plugins.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.354838">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -86,6 +196,15 @@
       <list>
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
+        <option value="$PROJECT_DIR$/sass/custom/_layout.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_fonts.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_styles.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_colors.scss" />
+        <option value="$PROJECT_DIR$/sass/base/_theme.scss" />
+        <option value="$PROJECT_DIR$/source/_posts/2015-06-10-blogging-basics.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2015-06-10-plugins.markdown" />
+        <option value="$PROJECT_DIR$/public/blog/categories/octopress/atom.xml" />
       </list>
     </option>
   </component>
@@ -144,6 +263,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -169,10 +320,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -257,14 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -281,12 +424,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3550388">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/after_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/post/author.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/asides/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="2" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_solarized.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_utilities.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+          <folding>
+            <marker date="1433924058665" expanded="true" signature="2622:2685" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2015-06-10-plugins.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.354838">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blog/categories/octopress/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.708527">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0310078">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2015-06-10-blogging-basics.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.096774">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

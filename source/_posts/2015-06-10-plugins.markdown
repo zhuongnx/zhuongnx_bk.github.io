@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Plugins"
+date: 2015-06-10 13:43:11 +0700
+comments: true
+categories: octopress
+---
+
+There are other plugins for octopress, but here's an overview of the ones you'll be likely to use while blogging. This is mainly a description and demo, so be sure to follow the links beneath each section for examples and documentation.
+
+<!-- more -->
+
+## Excerpts
+
+When writing a post, you can add an HTML comment `<!--more-->` to split the post for an excerpt. Only the first section of the post, before the comment, will show up on the blog index.
+
+## HTML5 Video Tag
+
+This plugin makes it easy to insert mp4 encoded HTML5 videos in a post. Octopress ships with javascripts which detect mp4 video support ([using Modernizr](http://modernizr.com/)) and automatically offer a flash player fallback.
+
+[Examples & documentation »](http://octopress.org/docs/plugins/video-tag/)
+
+## Image Tag
+
+This plugin makes it easy to insert images in a post, with optional class names, alt and title attributes.
+
+[Examples & documentation »](http://octopress.org/docs/plugins/image-tag/)
+
+## Block quote
+
+> Give a man a fish, he'll have food for a day. Teach a man to fish, and he'll always come to you with his fishing problems. 

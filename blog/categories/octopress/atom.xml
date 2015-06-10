@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[HuongNguyen's Blog]]></title>
-  <link href="http://zhuongnx.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | HuongNguyen's Blog]]></title>
+  <link href="http://zhuongnx.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://zhuongnx.github.io/"/>
   <updated>2015-06-10T13:49:04+07:00</updated>
   <id>http://zhuongnx.github.io/</id>
@@ -67,45 +67,31 @@ The name of the file will be used as the url slug, and the date helps with file 
 
 <h3>Syntax</h3>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake new_post<span class="o">[</span><span class="s2">&quot;title&quot;</span><span class="o">]</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<pre><code class="sh">rake new_post["title"]
+</code></pre>
 
 <p><code>new_post</code> expects a naturally written title and strips out undesirable url characters when creating the filename. The default file extension for new posts is <code>markdown</code> but you can configure that in the <code>Rakefile</code>.</p>
 
 <h3>Example</h3>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake new_post<span class="o">[</span><span class="s2">&quot;Blogging basics&quot;</span><span class="o">]</span>
-</span><span class='line'><span class="c"># Creates source/_posts/2015-06-10-blogging-basics.markdown</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<pre><code class="sh">rake new_post["Blogging basics"]
+# Creates source/_posts/2015-06-10-blogging-basics.markdown
+</code></pre>
 
 <p>The filename will determine your url.
 With the default permalink settings the url would be something like <code>http://site.com/blog/2015/06/10/blogging-basics/</code></p>
 
 <p>Open a post in a text editor and you&rsquo;ll see a block of yaml front matter which tells Jekyll how to processes posts and pages.</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>---
-</span><span class='line'>layout: post
-</span><span class='line'>title: <span class="s2">&quot;Zombie Ninjas Attack: A survivor&#39;s retrospective&quot;</span>
-</span><span class='line'>date: 2011-07-03 5:59
-</span><span class='line'>comments: <span class="nb">true</span>
-</span><span class='line'>external-url:
-</span><span class='line'>categories:
-</span><span class='line'>---
-</span></code></pre></td></tr></table></div></figure>
-
+<pre><code class="sh">---
+layout: post
+title: "Zombie Ninjas Attack: A survivor's retrospective"
+date: 2011-07-03 5:59
+comments: true
+external-url:
+categories:
+---
+</code></pre>
 ]]></content>
   </entry>
   

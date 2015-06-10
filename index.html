@@ -9,7 +9,7 @@
   <meta name="author" content="Hướng Nguyễn">
 
   
-  <meta name="description" content=" Blog Archives Recent Posts ">
+  <meta name="description" content="There are other plugins for octopress, but here&rsquo;s an overview of the ones you&rsquo;ll be likely to use while blogging. This is mainly a &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -56,7 +56,7 @@
 </form>
   
 <ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
+  <li><a href="/">Home</a></li>
   <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
@@ -65,6 +65,77 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/06/10/plugins/">Plugins</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-06-10T13:43:11+07:00'><span class='date'><span class='date-month'>Jun</span> <span class='date-day'>10</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>1:43 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There are other plugins for octopress, but here&rsquo;s an overview of the ones you&rsquo;ll be likely to use while blogging. This is mainly a description and demo, so be sure to follow the links beneath each section for examples and documentation.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2015/06/10/plugins/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/06/10/blogging-basics/">Blogging Basics</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-06-10T13:11:58+07:00'><span class='date'><span class='date-month'>Jun</span> <span class='date-day'>10</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>1:11 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Octopress offers some rake tasks to create post and pages preloaded with metadata and according to Jekyll&rsquo;s naming conventions.
+It also generates a global and a category based feed for your posts (You can find them in <code>atom.xml</code> and <code>blog/categories/&lt;category&gt;/atom.xml</code>)</p>
+
+<p>If you are using zsh in the command line, then please add <code>alias rake=noglob rake</code> to your zsh config to prevent the <code>zsh: no matches found</code> error that occurs when running these rake tasks.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2015/06/10/blogging-basics/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   <div class="pagination">
     
@@ -78,7 +149,44 @@
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
+      <li class="post">
+        <a href="/blog/2015/06/10/plugins/">Plugins</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/06/10/blogging-basics/">Blogging Basics</a>
+      </li>
+    
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhuongnx">@zhuongnx</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhuongnx',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
